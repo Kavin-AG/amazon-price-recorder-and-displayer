@@ -20,3 +20,5 @@ This project will be helpful for people who waiting for
 drop in price of a particular product. Also, data analyst
 can use the data to study the changes in price of
 products.
+
+![Alt text](image link)
