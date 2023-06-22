@@ -21,5 +21,5 @@ drop in price of a particular product. Also, data analyst
 can use the data to study the changes in price of
 products.
 
+![Alt text](https://github.com/Kavin-AG/amazon-price-recorder-and-displayer/blob/main/Figure_2.png)
 ![Alt text](https://github.com/Kavin-AG/amazon-price-recorder-and-displayer/blob/main/Figure_1.png)
-![Alt text]([https://github.com/Kavin-AG/amazon-price-recorder-and-displayer/blob/main/Figure_2.png)
